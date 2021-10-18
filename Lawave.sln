@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lawave", "Lawave.csproj", "{19F20D10-24A5-458E-AD24-F9E20EA8C512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F20D10-24A5-458E-AD24-F9E20EA8C512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F20D10-24A5-458E-AD24-F9E20EA8C512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F20D10-24A5-458E-AD24-F9E20EA8C512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F20D10-24A5-458E-AD24-F9E20EA8C512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51838396-96B5-4769-99D9-12D30334529A}
+	EndGlobalSection
+EndGlobal
